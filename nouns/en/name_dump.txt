@@ -1,0 +1,1589 @@
+whisker, paws, hoofs, tail, wings, antlers, beak, bill
+rooster's comb, horn, pouch, pelt, fur, quill
+dinosaur, mammoth, Tyrannosaurus Rex,
+frog's leg, spider, moth, bug, cockroach, June bugs
+ants, fire ant, moth, bat, vulture, owl, peacock
+toad, turtle, worm, earthworm, toad, porcupine, skunk
+armadillo, rat, squirrel, hedgehog, chipmunk, gerbil, hamster
+opossum, mouse, mole, anteater, platypus, otter
+calf, cow, oxen, cattle, sheep, lamb, ram, goat, kid,
+pig, hog, shoat, sow, fox, vixen, lemur, raccoon, weasel
+monkey, ape, chimpanzee, orangutan, baboon, capuchin monkey
+horse, pony, pinto, mare, filly, gelding, bronco, colt, stallion,
+donkey, jack and jenny, zebra, mule, camel, dromedary, gazelle
+capon, tom, bird, goose, duck, drake, gander, turkey, gobbler
+songbird, lark, nightingale, wren, eagle, hawk, osprey
+puppy, kitten, chick, rooster, hen, crows, raven,
+cats, kittens, alley cat, calico, tabby, Siamese, Persian, Van
+dogs, mutt, wolf, cub, tiger, lion, elephant, cheetah, puma, boar
+jackal, jaguar, ocelot, rhinoceros, alpaca,, antelope, elk
+deer, doe, fawn, stag, kangaroo, joey, koala, sloth, emu
+wallaby, wombat, bear, polar bear, hyena, panda
+alligator, crocodile, snakes, giraffe, Gila monster
+sewer rat, pinworms, horse flies, wasps, honeybees, hornets
+fish, whale, shark, dolphin, grouper, kingfish, seal, sea lion,
+castle, pyramid, jailhouse, cliff dwellings, igloo
+Chinese pavilion, hair salon, beauty salon, hostel
+estate, hacienda, ranch, ashram, log cabin, shed,
+light house, campanile, hovel, tavern, pagoda, abbey
+cathedral, chapel,
+auditorium, hippodrome, tabernacle, stadium, kiosk
+high-rise, green house, skyscraper, theater, casino
+bathhouse, chalet, cottage, hut, shack, shanty,
+chateau, bungalow, cabin, villa, inn, motel, hotel,
+silo, barn, restaurant, diner, fortress, monastery,
+school, tire factory, tattoo salon, mansion, manor,
+beauty salon, saloon, bank, outhouse, yurt, barracks
+gas station, garage, office building, tenement
+condominium, apartments, tepee, townhouse
+roof shingles, mansard roof, stone walls, paved patio,
+outside walls, fire escape, siding, clapboard siding,
+cornerstone, drawbridge, lanai, skywalk
+concrete steps, porch, veranda, gate, fire hydrant
+stone road, street block, sidewalk, well, artesian well
+espalier, trellis, cesspool, chain-link fence, picket fence,
+garden, yard, grass, lawn, tower, orchard, hedge
+bower, gazebo, corral, stables, paddock, cabana, carport
+flower beds, cloister, belfry, cupola, vineyard, walkway
+rooms (bed, living, guest), kitchen, pantry, bathroom,
+atelier, studio, study, attic, atrium, catacomb, boudoir,
+ceiling tile, checkroom, closet, den drawing room,
+study, antechamber, sunroom, playroom, nursery
+entertainment center, meeting rooms, powder room
+light fixtures, chandeliers, fanlight, light switch,
+switchboard telephone, spiral staircase, gallery
+bay window, bow window, skylight, porthole
+double-hung window, transom, storm window
+sliding patio door, hallway, corridor, balcony, gallery
+study hall, office door, doorknob, lock and bolt
+turnstile, trapdoor, cellar, basement, alcove, apse
+elevator, dumbwaiter, hearth, fireplace, mantel
+loft, loggia, mezzanine, stage, rostrum, niche, alcove
+apron, tie, belt, ascot, cummerbund, bandanna, bandolier, obi
+cartridge belt, sash, waistband, fascia, hamaki, crest, corsage,
+netsuke, frog clasps, pompom, wampum, shawl, stole, gloves,
+kid gloves,
+
+bow tie, clerical collar, choker, cravat, dickey, lei, cuff links,
+tie clasp, tie clip, string tie, signet ring, stick pin, eyeglasses, sunglasses,
+granny glasses, horn rims, bifocals, goggles, contact lens, pince-nez,
+opera glasses, monocle, spectacles, pocket watch, fob,
+
+jewelry, gem, jewel, ankle bracelet, brooch, cameo, charm
+pearl necklace, bracelet, earrings, watch, beads, locket,
+pendant, solitaire, studs, tiara, crown, pinkie ring,
+
+luggage, bag, attach%uFFFD, overnighter, pocketbook, portfolio,
+hatbox, purse, fanny pack, duffel bag, gym bag, haversack,
+golf bag, garment bag, suitcase, tote bag, wallet,
+
+underwear, negligee, knickers, bloomers, panties, briefs, thongs,
+slip, cleavage, bra, brassiere, chastity belt, garter, girdle,
+boxer shorts, jockey shorts, suspenders, tank top, nightgown
+athletic supporter (cup), T-shirt, thermals, bathrobe, pajamas,
+loincloth, baby jimmies, footie pajamas,
+argyle socks, crew socks, bobby socks, anklet, pantyhose,
+stockings (fishnet, silk, nylon), tube socks, tights,
+
+shoes, shoe horns, heels, French heel, wedge heel, sandals, slippers,
+thongs, platform shoes, spike heels, stilettos, flip flops, chancletas,
+athletic shoes, cleats, bootee, booties, combat boots, espadrille,
+galoshes, gumshoes, waterproof boots, riding boots, Roman sandals,
+high heels, tap shoes, loafers, mukluk, oxford, moccasins, wingtips,
+sneakers, work boots, running shoes, tennis shoes, Wellington boots,
+wooden shoes, clogs, klomps, pumps, rawhide laces, shoelaces,
+aglets, canvas straps, tassels, buckles
+
+costume, formals, disguise, garb, raiment, uniform, togs, rags, shirt, suit,
+dress, pants, cap and gown, business suit, tuxedo, jumpsuit, fatigues,
+pinstripes, pantsuit, evening dress, strapless dress, coverall, frock,
+dress with spaghetti straps, snowsuit, zoot suit, chador, shawl, tutu, kilt,
+skirt (A-line, pleated, dirndl, full, tight, bustle, mini, midi, maxi), pannier,
+crinoline, petticoat, pinafore, sari, sarong, jumper, shift, shirtdress,
+wraparound dress, anorak, parka, caftan, vest, cape, trench coat,
+cloak, kimono, Inverness, mantua, mantle, peacoat, poncho, robe,
+
+smock, toga, tunic, blazer, cardigan, sweater, turtleneck sweater
+V-necked sweater, bolero, fisherman's sweater, crew-neck sweater,
+bomber jacket, double-breasted jacket, combat jacket, dinner jacket,
+shearling, fur coat, fake fur coat, dolman, chinos, chaps, Capri pants,
+blue jeans, corduroys, gaiters, dungarees, denims, hip huggers, hot pants,
+shorts, jodhpurs, leggings, pedal pushers, spandex, spanks, tights,
+trousers, toreador pants, bikini, bathing suit, gym suit, sweats, leotard,
+swimsuit, track suit, wet suit, armor, breastplate, epauliere, gauntlet,
+alb, cassock, cope, vestment
+
+hat, cap, beret, astrakhan, beanie, hard hat, pillbox, monkey cap, opera hat,
+bonnet, bowler, coonskin, fedora, Dutch hat, derby, Montero, cowboy hat,
+baseball cap, sombrero, Tyrolean hat, yarmulke, skullcap, Watteau hat,
+sun hat, tam, tam-o'-shanter, three-cornered hat, sunbonnet, toque, top hat,
+babushka, balaclava, crash helmet, turban, diadem, earmuffs, visor, scarf
+veil, war bonnet, pith helmet, hood, miter (bishop's hat), shell jacket
+
+cooking sherry, stick butter, rocky road ice cream, cake batter,
+coffee, tea, drink of water, soda, hot chocolate, caf%uFFFD mocha latte
+locally brewed beer, wine, cappuccino, Jell-O, nougats,
+lamb chops, steaks, chicken and veal cutlets (Schnitzel)
+chowder, fish soup, spaghetti, lobster, sushi, fondue,
+crabs legs, shrimp, garlic, onions, Bratwurst, kielbasa,
+pate de foie gras, head cheese, hot dog, hamburger
+heirloom tomato, herbs, grains, legumes, zampone, casserole,
+black beans, pumpkin seeds, stew, cereal, polenta, pudding
+pasta, macaroni, ravioli, wafer, crackers, cookies,
+sandwich, gyro, wrap, omelet, popcorn, walnuts, nuts, almonds
+strawberries, blueberries, raspberries, blackberries
+dessert menu, pizza, chocolate mousse, cr%uFFFDme brulee,
+cakes, pancake, waffles, French toast, rock candy, baked Alaska
+
+bedside table, chest of drawers, dresser, armoire,
+chiffonier, credenza, console, bookcase, buffet, armchair
+rocking chair, recliner, Adirondack chair, Easy chair,
+bench, banquette, chair, chaise lounge, Chippendale chair,
+couch, davenport, Chesterfield, sofa, armchair, ottoman
+folding chair, deck chair, love seat, director's chair
+fanback chair, high seat, divan, inglenook, pew, throne
+sectional, stool, potty chair, workbench, swivel chair
+night table, bed, four poster bed, daybed, bassinet, crib
+cradle, cot, foldaway bed, futon, hammock, tatami mat,
+rollaway bed, mattress. boxspring, waterbed, trundle bed,
+hassock, hat rack, step stool, footrest, footstool, tripod
+grandfather clock, cuckoo clock, mirror, Tiffany lamp, nightlight,
+recessed lighting, gooseneck lamp, torchiere, Chinese lantern
+Venetian lamp, track lighting, sunlamp, spotlight, ceiling fan
+cupboard, card table, hutch, locker, wet bar, vanity, rack
+%uFFFDtag%uFFFDre, filing cabinet, hope chest, china cabinet,
+sculpture, coffee table, painting, wall hanging
+
+eye, pupil, iris, retina, eyeball, eyelids eyelashes, eyebrows
+lap, waist, belly, tummy, rear end, crotch, abdomen
+beard, mustache, sideburns,
+fingernail, hand, forearm, arm, knuckles, thumb, wrist, elbow
+leg, toes, knee, ankle, shin, thigh, hip, breast, chest, torso,
+tongue, lips, gums, mouth, teeth, bones, spine, throat,
+lungs, kidneys, intestines, colon, gall bladder, spleen, glands,
+blood, head, skull, brain, muscles, red blisters, curly hair,
+
+xylophone, clavier, virginal, lute, drum, French Horn, English Horn
+piano, violin, cello, guitar, flute, tuba, harp, mariachi, orchestra, oboe,
+bassoon, woodwinds, brass, viola, kettle drum, peyote drum, tambourine,
+tambour, xylophone, saxophone, marimba, maracas, glockenspiel, shofar
+cymbals, kazoo, baby grand piano, dulcimer, harpsichord, accordion,
+lyre, fiddle, banjo, balalaika, sitar, ukulele, zither, bagpipes, piccolo,
+clarinet, cornet, bugle alpenhorn, panpipe, tuning fork, metronome,
+castanets, mixing console, woofers
+
+senator, governor, representative, councilman(woman), congressman(woman)
+tennis coach, detective, sleuth, trooper, musician, accompanist, instrumentalist,
+concert pianist, maestro, conductor, composer, singer, architect, physician,
+photographer, stage manager, usher, song-and-dance-man, painter, model,
+designer, dinner guest, attorney, lawyer, judge, mayor, city council, therapist
+school teacher, school principal, professor, orator, philosopher, psychologist
+man, woman, teen, child, mother, father, grandmother, grandfather, sister,
+brother, uncle, aunt, son, daughter, in-laws, boy, girl, nurse, sibling, settler
+pioneer, waiter, hostess, host, cashier, attendant, publisher, proof-reader
+agent, witch. warlock, ghost, knight, prince, princess, maiden, fairy godmother
+
+sky, forest, Heaven, Hell, earth, sun, stars, planets (names), outer space
+town, village, city, country, farm, suburb, roads, streets, city blocks, zoo,
+park, museum, cemetery, tunnels, caves, churches, temples, mosques,
+supermarket, mall
+
+petal, sepal, stamen, pine boughs,bud, branch, blossom, fruit, bloom
+trees (maple, elm, oak, palm, baobab, mangrove, cyprus, pine, dogwood, alder)
+flowers (rose, tulip, cyclamen, lily, carnations, etc.) wisteria, Venus's flytrap,
+hoe, weeds, cotton plants, sugar canes, red palms, sego palms, queen palms,
+fruits (apples, lemons, orange, grapefruit, tangerine, peach, tomato, bananas)
+vegetables (artichokes, leeks, lettuce, eggplants, zucchini, squash, pumpkin,
+cauliflower, cabbage, peppers, onions, elephant garlic) 
+
+chalice, bijou, candelabra, menorah, curio, figurine,
+music-box, objet d'art, trinket, trims, wind chimes
+birdcage, birdbath, cans, wastebasket, urn, bucket
+arrow, bow, sword, dart, epee, dagger, hatchet, pickax
+popsicle stick, scented candle, dolls, toy train set
+broom, mop, pail, vacuum cleaner, squeegee, caddy
+telephone, pipe, paints, brushes, easel, canvas
+trunk, hook, gun, glue, tissue (toilet, Kleenex)
+paper towel, ropes, rubber, metal coils, toys
+toy pail and shovel, dog leash, balloon, vases, planters
+pen, pad, typewriter, computer, e-reader, laptop, I-Pad
+netbook, stylus, pencil, desk, backpack, shoe-rack,
+note-book, vellum, chalk, metal badge, saddle, spurs
+research paper, roll book, guest book, cash machine
+pots, pens, plates, dishes, forks, spoons, knives
+plastic bags, freezer bags, samovar, weather vane
+thermometer, 
+
+trash bins, blackboard, furnace, Franklin stove, oven
+potbelly stove, wood stove, range, water heater, bidet
+large appliances (refrigerator, washer-dryer, dishwasher, freezer)
+swing set, coffin, leaf piles, hay rolls
+motors, dynamos
+
+Viking ship, ferryboat, ocean liners, oars, sails, dinghy, yacht, canoe,
+catamaran, gondola, fishing boat, battleship, air force carrier, clipper,
+dhow, dory destroyer, flatboat, houseboat, galleon, frigate, hydrofoil,
+junk, ketch, yawl, submarine, schooner, scow, flatbed truck, SUV,
+moving van, caboose, freight train, bullet train, metro, subway, cart,
+taxi, car, racing car, patrol car, beach buggy, dune buggy, dragster,
+motorcycle, go-cart, limo, stretch limo, station wagon, stock car,
+trolley, tram, bus, parachute, U-Haul, tractor trailer, golf cart, jeep,
+Ticonderoga, town car, big rig, bulldozer, dump truck, steamroller,
+jeep, tow truck, fire engine, police car, tank, locomotive, 
+
+poison, venom, fire, 
+
+ocean, oasis, sea, lake, salt lake, sea foam, waves, bubbles, current,
+run-off water, underground water, water basin, bridge, harbor, pond,
+wharf, pier, dock, port, shore, beach, sandbar, coast, river, brook,
+rivulet, puddle, waterfall, cascades, canal, channel, stream, creek,
+marsh, bog, swamp, bayou, estuary, whirlpool, eddy, geyser, well
+
+monsoon, hurricane, typhoon, air, snow, rain, sleet, storm, hail,
+blizzard, wind, breeze, gale, whirlwind, maelstrom, dust storm,
+cloudburst, tornado, twister, clouds, fog, pea soup, floods, flash flood
+acid rain, aftershocks, tremors, earthquakes, lightning avalanche,
+eclipse, alpenglow, meteor shower, thunderbolt, tsunami, thunderhead
+waterspout, smog
+aneroid barometer, Fahrenheit thermometer, weather satellite
+radiosonde, weather station, weather map
+
+ Whale 	 Eyes 	 Jewelry 	 Pencil 	     Pomegranate           
+ Ostrich 	 Head 	 Belt 	 Desk 	 Apple
+ Shark 	 Ears 	 Apron 	 Table 	 Gauva
+ Parrot 	 Nose 	 Buckles 	 Book 	 Orange
+ Sheep 	 Cheeks 	 Tie 	 Chairs 	 Grapes
+ Fox 	 Lips 	 Gown 	 Pendrive 	 Water Melon
+ Turkey 	 Mouth 	 Bow 	 Laptop 	 Brinjal
+ Wolf 	 Neck 	 Jersey 	 Stairs 	 Ladies Finger
+ Donkey 	 Jaw 	 Vest 	 Desktop 	 Drum Stick
+ Monkey 	 Shoulders 	 Boxers 	 Oven 	 Rasberries
+ Dog 	 Hair 	 Pants 	 Mobile 	 Garlic
+ Panther 	 Hands 	 Sweaters 	 Air Conditioner 	 Rice
+ Cat 	 Tongue 	 Trousers 	 Freezer 	 Ginger
+ Peacock 	 Fingers 	 Leggings 	 Fan 	 Mango
+ Pigeon 	 Chest 	 Bermudas 	 Pad 	 Onion
+ Cow 	 Wrist 	 Bikini's 	 Pipe 	 Milk
+ Sparrow 	 Foot 	 Crest 	 Iron box 	 Grains
+ Panda 	 Waist 	 Sari 	 Spoon 	 Potato
+ Tiger 	 Stomach 	 Pocket Watch 	 Music player 	 Cauli Flower
+ Goat 	 Ankle 	 Frock 	 Balloon 	 Green Gram
+ Elephant 	 Heart 	 Track Suit 	 Ear buds 	 Red Gram
+ Deer 	 Legs 	 Jacket 	 Tap plates 	 Red Chilly
+ Crow 	 Brain 	 Suit 	 Keyboard 	 Butter
+ Buffalo 	 Lungs 	 Suitcase 	 Arrow 	 Beans
+ Lion 	 Palm 	 Shirt 	 Mouse 	 Cheese
+ Swan 	 Bones 	 Ear Rings 	 Stove 	 Bread
+ Bear 	 Ribs 	 Cap 	 Bulb 	 Noodles
+ Frog 	 Toes 	 Sandals 	 Lighter 	 Egg
+ Koel Bird 	 Underarm 	 Hat 	 Television 	 Pasta
+ Tailor Bird 	 Back 	 Shoes 	 Black board 	 Oil
+ 
+ angle, ant, apple, arch, arm, army, baby, bag, ball, band, basin, basket, bath, bed, bee, bell, berry, bird, blade, board, boat, bone, book, boot, bottle, box, boy, brain, brake, branch, brick, bridge, brush, bucket, bulb, button, cake, camera, card, cart, carriage, cat, chain, cheese, chest, chin, church, circle, clock, cloud, coat, collar, comb, cord, cow, cup, curtain, cushion, dog, door, drain, drawer, dress, drop, ear, egg, engine, eye, face, farm, feather, finger, fish, flag, floor, fly, foot, fork, fowl, frame, garden, girl, glove, goat, gun, hair, hammer, hand, hat, head, heart, hook, horn, horse, hospital, house, island, jewel, kettle, key, knee, knife, knot, leaf, leg, library, line, lip, lock, map, match, monkey, moon, mouth, muscle, nail, neck, needle, nerve, net, nose, nut, office, orange, oven, parcel, pen, pencil, picture, pig, pin, pipe, plane, plate, plough/plow, pocket, pot, potato, prison, pump, rail, rat, receipt, ring, rod, roof, root, sail, school, scissors, screw, seed, sheep, shelf, ship, shirt, shoe, skin, skirt, snake, sock, spade, sponge, spoon, spring, square, stamp, star, station, stem, stick, stocking, stomach, store, street, sun, table, tail, thread, throat, thumb, ticket, toe, tongue, tooth, town, train, tray, tree, trousers, umbrella, wall, watch, wheel, whip, whistle, window, wing, wire, worm .
+ 
+     capricorn
+    abominable snowman
+    android
+    dragon
+
+    Martian
+    mermaid
+    nessie
+    ogre
+
+    phoenix
+    robot
+    snowman
+    sphinx
+
+    spirit
+    unicorn
+    vampire
+    werewolf
+    
+        apple
+    apricot
+    banana
+    blackberry
+    blueberry
+    cherry
+    cranberry
+    currant
+
+    fig
+    grape
+    grapefruit
+    grapes
+    kiwi
+    kumquat
+    lemon
+    lime
+
+    melon
+    nectarine
+    orange
+    peach
+    pear
+    persimmon
+    pineapple
+    plum
+
+    pomegranate
+    prune
+    raspberry
+    strawberry
+    tangerine
+    watermelon
+    
+        beet
+    carrot
+    Japanese radish
+
+    kohlrabi
+    parsnip
+    potato
+
+    radish
+    rutabaga
+    sweet potato
+
+    yam
+    
+        bean sprouts
+    broad beans
+
+    chick peas
+    corn
+
+    green beans
+    lentils
+
+    popcorn
+    snow peas
+    soybeans
+    
+        begonia
+    carnation
+    crocus
+    daffodil
+    dahlia
+    daisy
+    foxglove
+
+    geranium
+    gladiolus
+    hyacinth
+    iris
+    jasmine
+    lilac
+    lily
+
+    mimosa
+    narcissus
+    orchid
+    pansy
+    peony
+    poppy
+    rose
+
+    rose
+    sunflower
+    sunflower
+    thistle
+    tulip
+    violet
+    violet
+    
+    
+        Africa
+    Antarctica
+
+    Asia
+    Australia
+
+    Europe
+    North America
+
+    South America
+    
+    
+        floor tile
+    asphalt shingle
+    wood shingle
+    foam insulation
+
+    fiberglass insulation
+    cement
+    plaster
+    particle board
+
+    perforated hardboard
+    wood
+    plywood
+    plasterboard
+
+    metal lath
+    flooring
+    ceiling tile
+    
+    
+        air conditioner
+    apartment
+    ashtray
+    attic
+    basement
+    bathroom
+    bath tub
+    bed
+    bedding
+    bedroom
+    blanket
+    bolt
+    bookcase
+    brick
+    carpet
+    ceiling
+    cellar
+
+    cement
+    chair
+    chimney
+    closet
+    concrete
+    couch
+    curtain
+    cushion
+    desk
+    dining room
+    door
+    doorstep
+    drapes
+    dresser
+    fan
+    faucet
+    fireplace
+
+    floor
+    foundation
+    furnace
+    furniture
+    glass
+    hall
+    hinge
+    key
+    lamp
+    living room
+    lock
+    mirror
+    nail
+    paint
+    picture
+    plaster
+    plumbing
+
+    plywood
+    porch
+    rafter
+    roof
+    room
+    rug
+    screw
+    shelf
+    sink
+    sofa
+    stairs
+    table
+    toilet
+    wall
+    window
+    wire
+    wood
+    
+    
+        ice cube tray
+    freezer compartment
+    meat keeper
+    dairy compartment
+    butter compartment
+    handle
+
+    gasket
+    freezer door
+    switch
+    storage door
+    egg tray
+    compressor
+
+    defrost timer
+    fan
+    drain pan
+    crisper
+    glass cover
+    shelf
+
+    refrigerator compartment
+    thermostat control
+    evaporator coil
+    condenser coil
+    defrost heater
+    
+        attic
+    basement
+    bathroom
+    bedroom
+    cellar
+    closet
+    den
+
+    dining room
+    front yard
+    garage
+    hall
+    hallway
+    kitchen
+    laundry
+
+    living room
+    master bedroom
+    office
+    pantry
+    patio
+    playroom
+    porch
+
+    staircase
+    study
+    sun room
+    TV room
+    workshop
+    
+        apartment building
+    cave
+    condo
+
+    house
+    hut
+    igloo
+
+    mobile home
+    tent
+    tepee
+
+    trailer
+    wigwam
+    yurt
+    
+        attic
+    basement
+    bathroom
+    bathtub
+    bed
+    bedroom
+    blanket
+    book shelf
+    ceiling
+    chair
+    chest of drawers
+
+    closet
+    coffee table
+    couch
+    cupboard
+    desk
+    door
+    dryer
+    entrance
+    floor
+    furniture
+    garden
+
+    hallway
+    house
+    kitchen
+    living room
+    microwave
+    mirror
+    oven
+    pillow
+    radio
+    refrigerator
+    rocking chair
+
+    room
+    sink
+    stove
+    table
+    television
+    toilet
+    vacuum cleaner
+    wall
+    washer
+    window
+    
+    
+
+    armchair
+    baby bed
+    bed
+    bookcase
+    cabinet
+
+    chair
+    chest
+    closet
+    cupboard
+    desk
+
+    dresser
+    hall stand
+    lamp
+    seat
+    shelf
+
+    sideboard
+    stool
+    table
+    
+    
+        accordion
+    agogo bells
+    bagpipes
+    banjo
+    baritone
+    bass drum
+    bassoon
+    bell lyre
+    bongos
+    bugle
+    castanets
+    celeste
+    cello
+    chimes
+    clarinet
+    claves
+
+    conga
+    cornet
+    cowbell
+    crash cymbal
+    cymbal
+    drum
+    drum set
+    electric guitar
+    euphonium
+    flugelhorn
+    flute
+    French horn
+    glockenspiel
+    gong
+    grand piano
+    guitar
+
+    harmonica
+    harp
+    kettledrum
+    lute
+    mandolin
+    maracas
+    marimba
+    oboe
+    orchestra bells
+    piano
+    piccolo
+    recorder
+    ride cymbal
+    saxophone
+    scraper
+    sizzle cymbal
+
+    snare drum
+    sousaphone
+    splash cymbal
+    steel drums
+    tenor drum
+    timbales
+    timpani
+    tom-tom
+    triangle
+    trombone
+    trumpet
+    tuba
+    vibraphone
+    violin
+    xylophone
+    
+        appointment book
+    ball-point pen
+    book ends
+    clamp binder
+    clip
+    clipboard
+    correction fluid
+    correction tape
+    dater
+    desk pad
+
+    desk tray
+    eraser
+    expanding files
+    fastener binder
+    filing box
+    folder
+    fountain pen
+    glue stick
+    hanging folder
+    label maker
+
+    letter opener
+    letter scales
+    magic marker
+    paper
+    paper clips
+    paper punch
+    pen
+    pencil
+    pencil sharpener
+    ring binder
+
+    rotary file
+    rubber stamp
+    ruler
+    self-adhesive labels
+    stamp rack
+    staple remover
+    stapler
+    staples
+    tape
+    tape dispenser
+    
+        brand
+    bullet
+    corral
+    cowboy boots
+    cowboy hat
+
+    gun
+    gun belt
+    herd
+    holster
+    horse
+
+    lasso
+    pistol
+    ranch
+    rifle
+    rodeo
+
+    saddle
+    stampede
+    ten-gallon hat
+    
+        gold
+    silver
+    iron
+    aluminium
+
+    copper
+    steel
+    brass
+    tin
+
+    zinc
+    lead
+    nickel
+    platinum
+
+    titanium
+    mercury
+    bronze
+    
+    
+
+    acrylic
+    alloy
+    aluminum
+    brass
+    brick
+    bronze
+    carbon
+    cardboard
+    cast iron
+    cement
+
+    ceramics
+    copper
+    cotton
+    diamond
+    epoxy
+    fiber
+    fiberglass
+    glass
+    glue
+    gold
+
+    iron
+    leather
+    linen
+    nylon
+    paper
+    polyester
+    rubber
+    sand
+    silica
+    silver
+
+    skin
+    steel
+    stone
+    titanium
+    vinyl
+    viscose
+    wood
+    wool
+    
+    
+    
+
+    atomic bomb
+    blowgun
+    bomb
+    bow and arrow
+    cannon
+
+    club
+    gun
+    hand grenade
+    knife
+    land mine
+
+    missile
+    nuclear bomb
+    revolver
+    rifle
+    spear
+
+    stone
+    sword
+    tank
+    
+    
+        baseball hat
+    baseball uniform
+
+    golf clothes
+    ski wear
+
+    swimming suit
+    tracksuit
+    
+        suitcase
+    tote bag
+    trunk
+    
+        albatross
+    buzzard
+    chick
+    condor
+    cormorant
+    crow
+    crow
+    drake
+
+    duck
+    duckling
+    eagle
+    gander
+    goose
+    gosling
+    grouse
+    hawk
+
+    hen
+    heron
+    partridge
+    pelican
+    pheasant
+    ptarmigan
+    puffin
+    quail
+
+    raven
+    seagull
+    sparrow
+    swallow
+    swan
+    turkey
+    vulture
+    
+    
+        ant
+    bee
+    beetle
+    butterfly
+    caterpillar
+    centipede
+
+    cockroach
+    cricket
+    dragonfly
+    flea
+    fly
+    grasshopper
+
+    grub
+    ladybug
+    ladybug
+    maggot
+    mosquito
+    moth
+
+    snail
+    spider
+    termite
+    tick
+    wasp
+    
+    
+        bird
+    carp
+    cat
+
+    chicken
+    dog
+    goldfish
+
+    hamster
+    horse
+    monkey
+
+    pigeon
+    rabbit
+    snake
+    tropical fish
+    
+        Boa
+    Brown Snake
+    Cobra
+
+    Coral Snake
+    Green Snake
+    King Cobra
+
+    Python
+    Rat Snake
+    Rattlesnake
+
+    Viper
+    
+        bee
+    caterpiller
+    cicada
+
+    cockroach
+    cricket
+    dragonfly
+
+    fly
+    grasshopper
+    insects
+
+    locust
+    mosquito
+    spider
+    wasp
+    
+    
+        ankle
+    arm
+    back
+    beard
+    blood
+    body
+    bone
+    brain
+    cheek
+    chest
+    chin
+    ear
+    ears
+
+    elbow
+    eye
+    eyes
+    face
+    feet
+    finger
+    fingers
+    flesh
+    foot
+    hair
+    hand
+    hands
+    head
+
+    heart
+    hip
+    knee
+    knees
+    leg
+    legs
+    lip
+    moustache
+    mouth
+    muscle
+    nail
+    neck
+    nose
+
+    shoulder
+    shoulders
+    skin
+    stomach
+    teeth
+    throat
+    thumb
+    thumbs
+    toe
+    toes
+    tongue
+    tooth
+    wrist
+    
+        bald head
+    cheek
+    chin
+    crow's feet
+    dimple
+
+    ear
+    eye
+    eyebrow
+    forehead
+    freckles
+    gums
+
+    head
+    lip
+    lower jaw
+    mole
+    mouth
+    nose
+
+    pimple
+    temple
+    tongue
+    tooth
+    upper jaw
+    wrinkles
+    
+        armpit
+    back
+    buttock
+    chest
+    ears
+    eyes
+    feet
+
+    fingers
+    foot
+    forehead
+    hair
+    hands
+    head
+    hip
+
+    knees
+    legs
+    mouth
+    navel
+    neck
+    nipple
+    nose
+
+    private parts
+    shoulder
+    stomach
+    thigh
+    throat
+    toes
+    waist
+    
+    
+        appendix
+    diaphragm
+    gall bladder
+
+    hearts
+    large intestine
+    liver
+
+    lung
+    pancreas
+    small intestine
+
+    spleen
+    stomach
+    
+    
+
+    fist
+    fore finger
+    knuckle
+
+    little finger
+    middle finger
+    nail
+
+    palm
+    third finger
+    thumb
+
+    wrist
+    
+    
+        aftershave
+    body lotion
+    cream
+
+    deodorant
+    eyeliner
+    foundation
+
+    fragrance
+    lipstick
+    makeup
+
+    mask
+    perfume
+    shampoo
+    soap
+    
+        almanac
+    best seller
+    book
+    booklet
+
+    brochure
+    comic book
+    dictionary
+    encyclopedia
+
+    hardcover
+    magazine
+    novel
+    paperback
+
+    periodical
+    pamphlet
+    picture book
+    reference book
+    textbook
+    
+        advertisement
+    advice column
+    back page
+    cartoon
+    circulation
+    columnist
+    comics
+
+    correspondent
+    editor
+    editorial
+    evening edition
+    extra
+    feature
+    front page
+
+    headline
+    interviewer
+    lead story
+    morning edition
+    newspaper office
+    newsprint
+    newsstand
+
+    obituary
+    photographer
+    reporter
+    tabloid
+    TV guide
+    
+        airport
+    apartment building
+    bakery
+    bank
+    barber shop
+    book store
+    bowling alley
+    bus terminal
+
+    cafe
+    cathedral
+    church
+    cinema
+    convenience store
+    department store
+    fire department
+    gas station
+
+    hospital
+    house
+    library
+    mosque
+    movie theater
+    museum
+    office building
+    post office
+
+    restaurant
+    school building
+    shopping mall
+    shrine
+    supermarket
+    temple
+    train station
+    
+        archer
+    cannon
+    drawbridge
+
+    dungeon
+    knight
+    moat
+
+    samurai
+    shield
+    sword
+
+    wall
+    watch tower
+    
+        accountant
+    actor
+    actress
+    athlete
+    author
+    baker
+    banker
+    barber
+    beautician
+    broker
+    burglar
+    butcher
+    carpenter
+
+    chauffeur
+    chef
+    clerk
+    coach
+    craftsman
+    criminal
+    crook
+    dentist
+    doctor
+    editor
+    engineer
+    farmer
+    fire fighter
+
+    fisherman
+    judge
+    lawyer
+    magician
+    mechanic
+    musician
+    nurse
+    pharmacist
+    pilot
+    poet
+    policeman
+    politician
+    printer
+
+    professor
+    rabbi
+    priest
+    pastor
+    sailor
+    salesman
+    shoemaker
+    soldier
+    tailor
+    teacher
+    veterinarian
+    waiter
+    waitress
+    watchmaker
+    
+        street
+    avenue
+    square
+
+    building
+    parade
+    park
+
+    sidewalk
+    roadway
+    mailbox
+
+    fountain
+    subway entrance
+    train
+    station
+    
+        belt
+    blouse
+    boots
+    cap
+    cardigan
+    coat
+    dress
+    gloves
+    hat
+    jacket
+
+    jeans
+    jumper
+    mini-skirt
+    overalls
+    overcoat
+    pajamas
+    pants
+    pantyhose
+    raincoat
+    scarf
+
+    shirt
+    shoes
+    shorts
+    skirt
+    slacks
+    slippers
+    socks
+    stockings
+    suit
+    sweat-shirt
+
+    sweater
+    sweatshirt
+    t-shirt
+    tie
+    trousers
+    underclothes
+    underpants
+    undershirt
+    vest
+    
+        basketball shoes
+    boots
+    casual shoes
+    clogs
+    cowboy boots
+    dress shoes
+
+    golf shoes
+    high heel shoes
+    loafers
+    moccasins
+    pumps
+    rubber boots
+
+    sandals
+    shoes
+    slippers
+    sneakers
+    spike shoes
+    spikes
+
+    steel toed shoes
+    T-strap shoes
+    tennis shoes
+    thongs
+    training shoes
+    work boots
+    
+    
+
+    bandana
+    baseball cat
+
+    beret
+    cap
+
+    ear muffs
+    hat
+
+    helmet
+    scarf
+    hardhat
+    
+        bull
+    calf
+    cat
+    chicken
+
+    cow
+    donkey
+    duck
+    goat
+
+    goose
+    hen
+    horse
+    lamb
+
+    pig
+    rooster
+    sheep
+    turkey
+    
+        alligator
+    ant
+    bear
+    bee
+    bird
+    camel
+    cat
+    cheetah
+    chicken
+    chimpanzee
+    cow
+    crocodile
+    deer
+    dog
+    dolphin
+    duck
+    eagle
+    elephant
+    fish
+
+    fly
+    fox
+    frog
+    giraffe
+    goat
+    goldfish
+    hamster
+    hippopotamus
+    horse
+    kangaroo
+    kitten
+    leopard
+    lion
+    lizard
+    lobster
+    monkey
+    octopus
+    ostrich
+    otter
+
+    owl
+    oyster
+    panda
+    parrot
+    pelican
+    pig
+    pigeon
+    porcupine
+    puppy
+    rabbit
+    rat
+    reindeer
+    rhinoceros
+    rooster
+    scorpion
+    seal
+    shark
+    sheep
+    shrimp
+
+    snail
+    snake
+    sparrow
+    spider
+    squid
+    squirrel
+    swallow
+    swan
+    tiger
+    toad
+    tortoise
+    turtle
+    vulture
+    walrus
+    weasel
+    whale
+    wolf
+    zebra
+    
+    
+
+    bass
+    carp
+    cod
+    crab
+    crawdad
+    crayfish
+
+    eel
+    halibut
+    herring
+    lobster
+    oyster
+    perch
+
+    pike
+    salmon
+    sardine
+    shark
+    shrimp
+    sturgeon
+
+    tadpole
+    trout
+    tuna
+    swordfish
+    
+        aardvark
+    bear
+    camel
+    crocodile
+    elephant
+    giraffe
+    kangaroo
+    leopard
+    lion
+    llama
+
+    monkey
+    ostrich
+    rhinoceros
+    snake
+    tiger
+    wolf
+    zebra
+    anteater
+    armadillo
+    baboon
+
+    badger
+    beaver
+    cheetah
+    cougar
+    gazelle
+    gorilla
+    ocelot
+    panda
+    panther
+    porcupine
+
+    wallaby
+    zebra
+    puma
+    lynx
+    bobcat
+    jaguar
+    hyena
+    alligator
